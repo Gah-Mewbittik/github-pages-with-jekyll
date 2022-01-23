@@ -1,5 +1,5 @@
 ---
-title: "my first blog post"
+title: "Kids and Activity"
 date: 2022-01-23
 ---
 
