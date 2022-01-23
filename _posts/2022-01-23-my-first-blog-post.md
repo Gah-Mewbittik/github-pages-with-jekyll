@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "my-first-blog-post"
+date: 2022-01-23
 ---
 
 Today's Kids are not aware of the consequnce of gaming for long periods.
